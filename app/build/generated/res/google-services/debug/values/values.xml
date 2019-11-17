@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">201366798138-9fercj7jtboe2a03tm6rnqat9jc8hdep.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://my-road-4ac13.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">201366798138</string>
+    <string name="google_api_key" translatable="false">AIzaSyBAKuBSeG2W9w3_KgVI1_JMg7cVvIsE_H8</string>
+    <string name="google_app_id" translatable="false">1:201366798138:android:18e2f33a8e3caee8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBAKuBSeG2W9w3_KgVI1_JMg7cVvIsE_H8</string>
+    <string name="google_storage_bucket" translatable="false">my-road-4ac13.appspot.com</string>
+    <string name="project_id" translatable="false">my-road-4ac13</string>
+</resources>

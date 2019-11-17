@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "201366798138",
+    "firebase_url": "https://my-road-4ac13.firebaseio.com",
+    "project_id": "my-road-4ac13",
+    "storage_bucket": "my-road-4ac13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201366798138:android:18e2f33a8e3caee8",
+        "android_client_info": {
+          "package_name": "com.example.myroad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201366798138-9fercj7jtboe2a03tm6rnqat9jc8hdep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAKuBSeG2W9w3_KgVI1_JMg7cVvIsE_H8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
